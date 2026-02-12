@@ -29,5 +29,3 @@ Senior Front-End Engineer with 9+ years building scalable web applications, spec
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oliszildjianjax@gmail.com) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
