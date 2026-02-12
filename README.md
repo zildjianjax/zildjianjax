@@ -3,7 +3,7 @@ Senior Front-End Engineer with 9+ years building scalable web applications, spec
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](zildjian-jax-olis/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zildjian-jax-olis/) 
 
 [![Upwork](https://img.shields.io/badge/Upwork-brightgreen.svg?logo=linkedin&logoColor=white)](https://www.upwork.com/freelancers/~019d2cc841342f6e32?viewMode=1) 
 
