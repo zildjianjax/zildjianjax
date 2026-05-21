@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Front-End Engineer with 9+ years building scalable web applications, specializing in <br>full-stack React/TypeScript development and complex third-party integrations. Expertise in <br>modernizing payment systems, optimizing performance (40-120% improvements), and <br>delivering revenue-critical features for high-traffic platforms serving 200K+ daily users. <br>Bachelor's degree in Information Technology. Seeking remote Senior or Staff Engineer role with <br>established SaaS or e-commerce companies.
+Senior Front-End Engineer with 10 years building scalable web applications, specializing in <br>full-stack React/TypeScript development and complex third-party integrations. Expertise in <br>modernizing payment systems, optimizing performance (40-120% improvements), and <br>delivering revenue-critical features for high-traffic platforms serving 200K+ daily users. <br>Bachelor's degree in Information Technology. Seeking remote Senior or Staff Engineer role with <br>established SaaS or e-commerce companies.
 
 
 ## 🌐 Socials:
